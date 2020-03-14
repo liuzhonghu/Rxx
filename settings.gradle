@@ -1,0 +1,3 @@
+rootProject.name='AndroidRxx'
+include ':app'
+include ':simple-kotlin'
